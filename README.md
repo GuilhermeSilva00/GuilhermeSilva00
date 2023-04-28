@@ -1,7 +1,6 @@
 
 ### Hello, welcome, I'm Guilherme 🤙
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-4024341a5/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto.devguisilva@gmail.com)
 
 ## Technologies and tools Front-end:
 <div style="display: inline_block"><br>
